@@ -1,2 +1,3 @@
 # SomniEngineDocs
-docs for my own engine
+
+https://github.com/WheatBox/SomniEngineDocs/wiki
